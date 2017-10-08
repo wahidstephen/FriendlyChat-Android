@@ -12,10 +12,10 @@ Basic text and image sending and reading ability at Real time, alongwith text-to
 
 # Preview
 
-![User Interface - 1](https://github.com/wahidstephen/Friendly-Chat/blob/master/ss1.jpeg)
+![User Interface - 1](https://github.com/wahidstephen/Friendly-Chat/blob/master/ss1.jpg)
 
-![User Interface - 2](https://github.com/wahidstephen/Friendly-Chat/blob/master/ss2.jpeg)
+![User Interface - 2](https://github.com/wahidstephen/Friendly-Chat/blob/master/ss2.jpg)
 
 # Database Design
 
-![DB Structure](https://github.com/wahidstephen/Friendly-Chat/blob/master/ss3.jpeg)
+![DB Structure](https://github.com/wahidstephen/Friendly-Chat/blob/master/ss3.jpg)
