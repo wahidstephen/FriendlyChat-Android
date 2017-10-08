@@ -240,6 +240,7 @@ public class MainActivity extends AppCompatActivity {
             } else if (resultCode == RESULT_CANCELED) {
                 Toast.makeText(this, "Sign in canceled", Toast.LENGTH_SHORT).show();
                 finish();
+            }
             } else if (requestCode == RC_PHOTO_PICKER && resultCode == RESULT_OK) {
                 Uri selectedImageUri = data.getData();
 
@@ -257,7 +258,7 @@ public class MainActivity extends AppCompatActivity {
                 });
             }
 
-        }
+
     }
 
     @Override

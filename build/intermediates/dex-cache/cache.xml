@@ -120,15 +120,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_87d7db610640da68df8d89f02e82d5d6f277077e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/wahidstephen/.android/build-cache/97f03c782cfc5c1fc335862fbdb15803202bf489/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -191,6 +182,15 @@
         <dex dex="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/pre-dexed/debug/classes_f998866814824ba81d2e7555172068c5e8f9e8cb.jar" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/wahidstephen/.android/build-cache/7f5acfc98f7da7413bbca78da3a951661c9be28a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/pre-dexed/debug/classes_04674960a2db6f261d57d210cb0ef3ec82a953da.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/wahidstephen/.android/build-cache/8c7c76400b34b5feae3c113cac5c6d98943c3193/output/jars/classes.jar"
         jumboMode="true"
@@ -234,6 +234,15 @@
         revision="25.0.0"
         sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
         <dex dex="/Users/wahidstephen/Downloads/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_1084dcfcc6858e0f5221f1ea1849ebab913e6d7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wahidstephen/.android/build-cache/918d1e1330de9092dc9f5f2cda6692624fa742ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/pre-dexed/debug/classes_7e4ed98d04307989822d0aad75cb2bedf9b44103.jar" />
     </item>
     <item
         is-multidex="false"
@@ -299,15 +308,6 @@
         <dex dex="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/pre-dexed/debug/classes_81e75e65b547fa093366060704fc34056d5a2a44.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6468cc459cb9043f041549e8b8f95da0dad00347">
-        <dex dex="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_448afeabe7e3153ca672cc240c2d9b75f25cf80b/classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="/Users/wahidstephen/.android/build-cache/e26b9c4fd3063b894a62e1c50a388927bc38ce75/output/jars/classes.jar"
         jumboMode="false"
@@ -315,6 +315,15 @@
         revision="25.0.0"
         sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
         <dex dex="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/pre-dexed/debug/classes_5466baa573f83a5d818ebb6fde163525fa2645e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wahidstephen/.android/build-cache/d78f0cdcd75047041853db3488a4e184c6544b2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/pre-dexed/debug/classes_bfa12770ddac39853b466ab0778a73f99923a6b1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -378,6 +387,15 @@
         revision="25.0.0"
         sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
         <dex dex="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/pre-dexed/debug/classes_9c6371f2b881b3ab73b11721895a299cf1ae4be8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wahidstephen/.android/build-cache/6bbde335f5491ecb4554e8cfb03316479f290170/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/wahidstephen/Github/Friendly-Chat/app/build/intermediates/pre-dexed/debug/classes_fd599c88b815eefddfb6c11652abdd500fd41ff7.jar" />
     </item>
     <item
         is-multidex="true"
