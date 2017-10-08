@@ -12,10 +12,10 @@ Basic text and image sending and reading ability at Real time, alongwith text-to
 
 # Preview
 
-![alt text](ss1.jpg?raw=true "User interface - 1")
+![User Interface - 1](https://raw.githubusercontent.com/wahidstephen/Friendly-Chat/ss1.jpeg)
 
-![alt text](ss1.jpg?raw=true "User interface - 2")
+![User Interface - 2](https://raw.githubusercontent.com/wahidstephen/Friendly-Chat/ss2.jpeg)
 
 # Database Design
 
-![alt text](ss3.jpg?raw=true "Database Design")
+![DB Structure](https://raw.githubusercontent.com/wahidstephen/Friendly-Chat/ss3.png)
