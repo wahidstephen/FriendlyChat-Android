@@ -2,6 +2,14 @@
 
 A basic chat app Android project created with the help of an online course using Firebase
 
+# *** APK File ***
+
+Please install the 1st link on your Android device to view complete functionality
+
+![Debug APK (Working)](https://drive.google.com/file/d/0B27MCp0qN2BPTGJQMXllYzRJLTQ/view?usp=sharing)
+
+![Unsigned APK](https://drive.google.com/file/d/0B27MCp0qN2BPSExtNHFrZU1JV1k/view?usp=sharing)
+
 # Design
 
 Basic material design implementation
