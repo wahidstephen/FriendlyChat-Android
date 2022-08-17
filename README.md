@@ -2,7 +2,7 @@
 
 A basic chat app Android project created with the help of an online course using Firebase
 
-# *** APK File ***
+# APK File
 
 Please install the 1st link on your Android device to view complete functionality
 
